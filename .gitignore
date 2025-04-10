@@ -1,0 +1,40 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment files
+.env
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code project files
+.vscode/
+
+# PyCharm project files (optional)
+.idea/
+
+# Logs
+*.log
+
+# Test & cache
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
